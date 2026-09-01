@@ -4,7 +4,15 @@
 
 MVP minimalista de busca reativa para siglas e contextos de Brasília-DF. Os dados permanecem em JSON versionado no próprio repositório, sem backend ou banco de dados.
 
-## Como rodar
+## 🚀 Deploy
+
+A aplicação está pronta para publicar no GitHub Pages com deploy automático via GitHub Actions.
+
+**[Instruções de deploy →](./DEPLOY.md)**
+
+Após configurar, a aplicação estará disponível em: `https://seu-usuario.github.io/siglas`
+
+## Como rodar localmente
 
 ```bash
 npm install
@@ -20,12 +28,20 @@ Acesse `http://localhost:3000` no computador ou `http://<IP-da-sua-rede>:3000` n
 - `src/data/acronyms.df.json`: catálogo local de siglas
 - `src/lib`: normalização e busca fuzzy
 - `src/types`: tipos TypeScript
+- `.github/workflows/deploy.yml`: configuração de deploy automático
 
 ## Busca e ranking
 
 A busca é reativa, case-insensitive e accent-insensitive. O ranking prioriza match exato de sigla, prefixo de sigla, ocorrências em nome/tags/aliases e, por fim, aproximação fuzzy baseada em distância de Levenshtein. O fuzzy aceita pequenas diferenças de digitação sem introduzir dependências.
 
-Os cards mostram somente a sigla. Ao clicar, os detalhes são expandidos no próprio grid.
+Os cards mostram somente a sigla. Ao clicar, os detalhes são expandidos. Pressione ESC para fechar o card expandido.
+
+## Dataset
+
+- **206 siglas únicas** de Brasília-DF
+- Consolidadas por região (siglas que aparecem em múltiplas regiões têm array `regioes`)
+- Categorias: Endereçamento, Administração pública, Segurança, Saúde, Educação, etc.
+- Campos: sigla, nome, descrição curta, região, regiões, tags, aliases, fonte
 
 ## Próximos passos
 
