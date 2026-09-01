@@ -1,0 +1,4142 @@
+[
+  {
+    "sigla": "GDF",
+    "nome": "Governo do Distrito Federal",
+    "categoria": "Administração pública",
+    "descricao_curta": "Órgão executivo responsável por políticas públicas e serviços do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "governo",
+      "executivo",
+      "servicos"
+    ],
+    "aliases": [
+      "Governo local",
+      "Administracao local"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "DF",
+    "nome": "Distrito Federal",
+    "categoria": "Unidade federativa",
+    "descricao_curta": "Unidade federativa onde está localizada Brasília e suas Regiões Administrativas.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "brasilia",
+      "unidade federativa",
+      "federacao"
+    ],
+    "aliases": [
+      "Distrito Federal",
+      "Brasilia"
+    ],
+    "fonte": "IBGE / validar"
+  },
+  {
+    "sigla": "RA",
+    "nome": "Região Administrativa",
+    "categoria": "Administração pública",
+    "descricao_curta": "Abreviação utilizada para identificar as Regiões Administrativas do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "regiao administrativa",
+      "GDF",
+      "territorio"
+    ],
+    "aliases": [
+      "Regiao Adm.",
+      "Regiao Administrativa"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "CBMDF",
+    "nome": "Corpo de Bombeiros Militar do Distrito Federal",
+    "categoria": "Segurança",
+    "descricao_curta": "Corporação responsável por prevenção, combate a incêndios e atendimento de emergências no DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "bombeiros",
+      "emergencia",
+      "seguranca"
+    ],
+    "aliases": [
+      "Bombeiros DF",
+      "CBM"
+    ],
+    "fonte": "CBMDF / validar"
+  },
+  {
+    "sigla": "PMDF",
+    "nome": "Polícia Militar do Distrito Federal",
+    "categoria": "Segurança",
+    "descricao_curta": "Instituição responsável pelo policiamento ostensivo e preservação da ordem pública no DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "policia",
+      "seguranca",
+      "policiamento"
+    ],
+    "aliases": [
+      "Policia Militar DF",
+      "PM-DF"
+    ],
+    "fonte": "PMDF / validar"
+  },
+  {
+    "sigla": "PCDF",
+    "nome": "Polícia Civil do Distrito Federal",
+    "categoria": "Segurança",
+    "descricao_curta": "Instituição responsável pela polícia judiciária e investigação criminal no DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "policia",
+      "seguranca",
+      "investigacao"
+    ],
+    "aliases": [
+      "Policia Civil DF",
+      "PC-DF"
+    ],
+    "fonte": "PCDF / validar"
+  },
+  {
+    "sigla": "DETRAN",
+    "nome": "Departamento de Trânsito",
+    "categoria": "Trânsito",
+    "descricao_curta": "Abreviação utilizada para o Departamento de Trânsito.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "transito",
+      "veiculos",
+      "habilitacao"
+    ],
+    "aliases": [
+      "Detran"
+    ],
+    "fonte": "DETRAN-DF / validar"
+  },
+  {
+    "sigla": "DETRANDF",
+    "nome": "Departamento de Trânsito do Distrito Federal",
+    "categoria": "Trânsito",
+    "descricao_curta": "Órgão responsável pela gestão, fiscalização e serviços de trânsito do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "transito",
+      "veiculos",
+      "habilitacao"
+    ],
+    "aliases": [
+      "DETRAN-DF",
+      "Detran DF"
+    ],
+    "fonte": "DETRAN-DF / validar"
+  },
+  {
+    "sigla": "DERDF",
+    "nome": "Departamento de Estradas de Rodagem do Distrito Federal",
+    "categoria": "Infraestrutura",
+    "descricao_curta": "Órgão responsável pelas rodovias e vias sob gestão rodoviária do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "rodovia",
+      "estrada",
+      "infraestrutura"
+    ],
+    "aliases": [
+      "DER-DF",
+      "DER DF"
+    ],
+    "fonte": "DER-DF / validar"
+  },
+  {
+    "sigla": "SES",
+    "nome": "Secretaria de Estado de Saúde do Distrito Federal",
+    "categoria": "Saúde",
+    "descricao_curta": "Órgão responsável pela gestão da saúde pública do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "saude",
+      "sus",
+      "governo"
+    ],
+    "aliases": [
+      "SES-DF",
+      "Secretaria de Saude"
+    ],
+    "fonte": "SES-DF / validar"
+  },
+  {
+    "sigla": "SEEDF",
+    "nome": "Secretaria de Estado de Educação do Distrito Federal",
+    "categoria": "Educação",
+    "descricao_curta": "Órgão responsável pela educação pública do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "educacao",
+      "escola",
+      "governo"
+    ],
+    "aliases": [
+      "SEDF",
+      "Secretaria de Educacao"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SSPDF",
+    "nome": "Secretaria de Estado de Segurança Pública do Distrito Federal",
+    "categoria": "Segurança",
+    "descricao_curta": "Órgão responsável pela coordenação das políticas de segurança pública do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "seguranca",
+      "policia",
+      "governo"
+    ],
+    "aliases": [
+      "SSP-DF",
+      "Secretaria de Seguranca"
+    ],
+    "fonte": "SSP-DF / validar"
+  },
+  {
+    "sigla": "SLU",
+    "nome": "Serviço de Limpeza Urbana do Distrito Federal",
+    "categoria": "Serviço público",
+    "descricao_curta": "Órgão responsável pelos serviços de limpeza urbana e resíduos sólidos no DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "limpeza",
+      "lixo",
+      "servico publico"
+    ],
+    "aliases": [
+      "SLU-DF",
+      "Limpeza Urbana"
+    ],
+    "fonte": "SLU / validar"
+  },
+  {
+    "sigla": "CAESB",
+    "nome": "Companhia de Saneamento Ambiental do Distrito Federal",
+    "categoria": "Saneamento",
+    "descricao_curta": "Empresa responsável pelo abastecimento de água e esgotamento sanitário no DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "agua",
+      "esgoto",
+      "saneamento"
+    ],
+    "aliases": [
+      "Caesb",
+      "Companhia de Saneamento"
+    ],
+    "fonte": "CAESB / validar"
+  },
+  {
+    "sigla": "TCDF",
+    "nome": "Tribunal de Contas do Distrito Federal",
+    "categoria": "Controle público",
+    "descricao_curta": "Órgão responsável pelo controle externo dos recursos públicos do Distrito Federal.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "tribunal",
+      "contas",
+      "fiscalizacao"
+    ],
+    "aliases": [
+      "Tribunal de Contas DF",
+      "TC-DF"
+    ],
+    "fonte": "TCDF / validar"
+  },
+  {
+    "sigla": "TJDFT",
+    "nome": "Tribunal de Justiça do Distrito Federal e dos Territórios",
+    "categoria": "Justiça",
+    "descricao_curta": "Tribunal responsável pela prestação jurisdicional no Distrito Federal e Territórios.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "justica",
+      "tribunal",
+      "judiciario"
+    ],
+    "aliases": [
+      "Tribunal de Justiça DF",
+      "TJ-DFT"
+    ],
+    "fonte": "TJDFT / validar"
+  },
+  {
+    "sigla": "MPDFT",
+    "nome": "Ministério Público do Distrito Federal e Territórios",
+    "categoria": "Justiça",
+    "descricao_curta": "Instituição responsável pela defesa da ordem jurídica e dos interesses sociais no DF e Territórios.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "ministerio publico",
+      "justica",
+      "fiscalizacao"
+    ],
+    "aliases": [
+      "MP-DFT",
+      "Ministerio Publico DF"
+    ],
+    "fonte": "MPDFT / validar"
+  },
+  {
+    "sigla": "St",
+    "nome": "Setor",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação oficial utilizada para identificar setores no sistema de endereçamento do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "setor",
+      "endereco",
+      "enderecamento"
+    ],
+    "aliases": [
+      "Setor"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Q",
+    "nome": "Quadra",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para identificar quadras no sistema de endereçamento do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "quadra",
+      "endereco",
+      "enderecamento"
+    ],
+    "aliases": [
+      "Quadra"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QI",
+    "nome": "Quadra Interna",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para Quadra Interna em diferentes regiões do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF",
+      "Guará",
+      "Lago Sul",
+      "Lago Norte"
+    ],
+    "tags": [
+      "quadra",
+      "interna",
+      "endereco",
+      "guara",
+      "residencial",
+      "lago sul",
+      "lago norte"
+    ],
+    "aliases": [
+      "Quadra Interna"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QE",
+    "nome": "Quadra Externa",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para Quadra Externa em diferentes regiões do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF",
+      "Guará"
+    ],
+    "tags": [
+      "quadra",
+      "externa",
+      "endereco",
+      "guara",
+      "residencial"
+    ],
+    "aliases": [
+      "Quadra Externa"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QL",
+    "nome": "Quadra do Lago",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para Quadra do Lago, especialmente em áreas próximas ao Lago Paranoá.",
+    "regiao": "DF",
+    "regioes": [
+      "DF",
+      "Lago Sul",
+      "Lago Norte"
+    ],
+    "tags": [
+      "quadra",
+      "lago",
+      "endereco",
+      "lago sul",
+      "lago norte"
+    ],
+    "aliases": [
+      "Quadra do Lago"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QR",
+    "nome": "Quadra Residencial",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para Quadra Residencial em diferentes regiões do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF",
+      "Samambaia",
+      "Recanto das Emas",
+      "Santa Maria"
+    ],
+    "tags": [
+      "quadra",
+      "residencial",
+      "endereco",
+      "samambaia",
+      "recanto das emas",
+      "santa maria"
+    ],
+    "aliases": [
+      "Quadra Residencial"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "CL",
+    "nome": "Comércio Local",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para Comércio Local.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "comercio",
+      "local",
+      "endereco"
+    ],
+    "aliases": [
+      "Comércio Local"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "EQ",
+    "nome": "Entrequadra",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para áreas localizadas entre quadras.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "entrequadra",
+      "quadra",
+      "endereco"
+    ],
+    "aliases": [
+      "Entre Quadras"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Cj",
+    "nome": "Conjunto",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para conjunto no sistema de endereçamento do DF.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "conjunto",
+      "endereco"
+    ],
+    "aliases": [
+      "Conjunto"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Bl",
+    "nome": "Bloco",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para bloco em endereços residenciais e comerciais.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "bloco",
+      "endereco",
+      "edificio"
+    ],
+    "aliases": [
+      "Bloco"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Lt",
+    "nome": "Lote",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para lote.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "lote",
+      "endereco"
+    ],
+    "aliases": [
+      "Lote"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "AE",
+    "nome": "Área Especial",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação muito utilizada em endereços de equipamentos públicos e áreas especiais.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "area especial",
+      "endereco",
+      "equipamento publico"
+    ],
+    "aliases": [
+      "Área Especial",
+      "A/E"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Tr",
+    "nome": "Trecho",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para trecho de via ou setor.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "trecho",
+      "via",
+      "endereco"
+    ],
+    "aliases": [
+      "Trecho"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Av",
+    "nome": "Avenida",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para avenida.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "avenida",
+      "via",
+      "endereco"
+    ],
+    "aliases": [
+      "Avenida"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "R",
+    "nome": "Rua",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para rua.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "rua",
+      "via",
+      "endereco"
+    ],
+    "aliases": [
+      "Rua"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "Mod",
+    "nome": "Módulo",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Abreviação utilizada para módulo em determinados endereçamentos.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "modulo",
+      "endereco"
+    ],
+    "aliases": [
+      "Módulo"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "N",
+    "nome": "Norte",
+    "categoria": "Orientação",
+    "descricao_curta": "Abreviação utilizada para indicar o lado norte.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "norte",
+      "orientacao"
+    ],
+    "aliases": [
+      "Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "S",
+    "nome": "Sul",
+    "categoria": "Orientação",
+    "descricao_curta": "Abreviação utilizada para indicar o lado sul.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "sul",
+      "orientacao"
+    ],
+    "aliases": [
+      "Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "L",
+    "nome": "Leste",
+    "categoria": "Orientação",
+    "descricao_curta": "Abreviação utilizada para indicar o lado leste.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "leste",
+      "orientacao"
+    ],
+    "aliases": [
+      "Leste"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "W",
+    "nome": "Oeste",
+    "categoria": "Orientação",
+    "descricao_curta": "Abreviação utilizada para indicar o lado oeste.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "oeste",
+      "orientacao"
+    ],
+    "aliases": [
+      "Oeste"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SN",
+    "nome": "Sem Número",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Indicação utilizada quando o endereço não possui número informado.",
+    "regiao": "DF",
+    "regioes": [
+      "DF"
+    ],
+    "tags": [
+      "sem numero",
+      "endereco"
+    ],
+    "aliases": [
+      "S/N",
+      "Sem número"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SQS",
+    "nome": "Superquadra Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Sistema de identificação das superquadras residenciais da Asa Sul de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "superquadra",
+      "residencial"
+    ],
+    "aliases": [
+      "Super Quadra Sul"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SQN",
+    "nome": "Superquadra Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Sistema de identificação das superquadras residenciais da Asa Norte de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "superquadra",
+      "residencial"
+    ],
+    "aliases": [
+      "Super Quadra Norte"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "CLN",
+    "nome": "Comércio Local Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área de comércio local da Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "comercio",
+      "plano piloto"
+    ],
+    "aliases": [
+      "Comércio Local Norte"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "CLS",
+    "nome": "Comércio Local Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área de comércio local da Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "comercio",
+      "plano piloto"
+    ],
+    "aliases": [
+      "Comércio Local Sul"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "EQS",
+    "nome": "Entrequadra Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Entrequadra localizada na Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "entrequadra"
+    ],
+    "aliases": [
+      "Entrequadra Sul"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SEPS",
+    "nome": "Setor de Edifícios Públicos Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de edifícios públicos localizado na Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "edificios publicos",
+      "setor"
+    ],
+    "aliases": [
+      "SEPS"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SEPN",
+    "nome": "Setor de Edifícios Públicos Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de edifícios públicos localizado na Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "edificios publicos",
+      "setor"
+    ],
+    "aliases": [
+      "SEPN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SGAN",
+    "nome": "Setor de Grandes Áreas Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de grandes áreas localizado na Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "grandes areas",
+      "setor"
+    ],
+    "aliases": [
+      "SGAN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SGAS",
+    "nome": "Setor de Grandes Áreas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de grandes áreas localizado na Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "grandes areas",
+      "setor"
+    ],
+    "aliases": [
+      "SGAS"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHCGN",
+    "nome": "Setor de Habitações Coletivas e Geminadas Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial da Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "residencial",
+      "habitacao"
+    ],
+    "aliases": [
+      "SHCGN"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "SHCGS",
+    "nome": "Setor de Habitações Coletivas e Geminadas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial da Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "residencial",
+      "habitacao"
+    ],
+    "aliases": [
+      "SHCGS"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SCS",
+    "nome": "Setor Comercial Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial tradicional do Plano Piloto.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "comercial",
+      "plano piloto"
+    ],
+    "aliases": [
+      "Setor Comercial Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SCN",
+    "nome": "Setor Comercial Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial tradicional do Plano Piloto.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "comercial",
+      "plano piloto"
+    ],
+    "aliases": [
+      "Setor Comercial Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SBS",
+    "nome": "Setor Bancário Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial associado a instituições financeiras na Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "bancos",
+      "financeiro"
+    ],
+    "aliases": [
+      "Setor Bancário Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SBN",
+    "nome": "Setor Bancário Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial associado a instituições financeiras na Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "bancos",
+      "financeiro"
+    ],
+    "aliases": [
+      "Setor Bancário Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SAFN",
+    "nome": "Setor de Administração Federal Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto destinado a órgãos e instituições federais.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "governo federal",
+      "setor"
+    ],
+    "aliases": [
+      "SAF Norte"
+    ],
+    "fonte": "SEDH / validar"
+  },
+  {
+    "sigla": "SAFS",
+    "nome": "Setor de Administração Federal Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto destinado a órgãos e instituições federais.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "governo federal",
+      "setor"
+    ],
+    "aliases": [
+      "SAF Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SAUN",
+    "nome": "Setor de Autarquias Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto que concentra autarquias e instituições.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "autarquias",
+      "setor"
+    ],
+    "aliases": [
+      "Setor de Autarquias Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SAUS",
+    "nome": "Setor de Autarquias Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto que concentra autarquias e instituições.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "autarquias",
+      "setor"
+    ],
+    "aliases": [
+      "Setor de Autarquias Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SRTVN",
+    "nome": "Setor de Rádio e Televisão Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial e empresarial da Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "radio",
+      "televisao",
+      "comercial"
+    ],
+    "aliases": [
+      "Setor de Rádio e TV Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SRTVS",
+    "nome": "Setor de Rádio e Televisão Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial e empresarial da Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "radio",
+      "televisao",
+      "comercial"
+    ],
+    "aliases": [
+      "Setor de Rádio e TV Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHLN",
+    "nome": "Setor Hospitalar Local Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor hospitalar da Asa Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "hospital",
+      "saude"
+    ],
+    "aliases": [
+      "Setor Hospitalar Local Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHLS",
+    "nome": "Setor Hospitalar Local Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor hospitalar da Asa Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "hospital",
+      "saude"
+    ],
+    "aliases": [
+      "Setor Hospitalar Local Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHL-N",
+    "nome": "Setor Hospitalar Local Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Forma alternativa encontrada para o Setor Hospitalar Local Norte.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "hospital",
+      "saude"
+    ],
+    "aliases": [
+      "SHLN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHL-S",
+    "nome": "Setor Hospitalar Local Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Forma alternativa encontrada para o Setor Hospitalar Local Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "hospital",
+      "saude"
+    ],
+    "aliases": [
+      "SHLS"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SDN",
+    "nome": "Setor de Diversões Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de diversões localizado na região norte da área central de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "plano piloto",
+      "diversoes",
+      "norte"
+    ],
+    "aliases": [
+      "Setor de Diversões Norte"
+    ],
+    "fonte": "SEDH / validar"
+  },
+  {
+    "sigla": "SDS",
+    "nome": "Setor de Diversões Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de diversões localizado na região sul da área central de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "plano piloto",
+      "diversoes",
+      "sul"
+    ],
+    "aliases": [
+      "Setor de Diversões Sul"
+    ],
+    "fonte": "SEDH / validar"
+  },
+  {
+    "sigla": "SMU",
+    "nome": "Setor Militar Urbano",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de Brasília que concentra instalações militares.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "militar",
+      "setor",
+      "exercito"
+    ],
+    "aliases": [
+      "Setor Militar Urbano"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SMC",
+    "nome": "Setor Militar Complementar",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor associado a instalações militares complementares em Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "militar",
+      "setor"
+    ],
+    "aliases": [
+      "Setor Militar Complementar"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SPO",
+    "nome": "Setor Policial",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de Brasília associado a instalações e órgãos policiais.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "policia",
+      "seguranca",
+      "setor"
+    ],
+    "aliases": [
+      "Setor Policial"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHIP",
+    "nome": "Setor Hípico",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor associado a atividades e instalações hípicas de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "hipismo",
+      "setor",
+      "brasilia"
+    ],
+    "aliases": [
+      "Setor Hípico"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SGO",
+    "nome": "Setor de Garagens Oficiais",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a garagens e instalações oficiais.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "garagens",
+      "governo",
+      "setor"
+    ],
+    "aliases": [
+      "Setor de Garagens Oficiais"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "MIN",
+    "nome": "Setor de Garagens Ministeriais",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor associado a garagens ministeriais na área central de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "garagens",
+      "ministerios",
+      "governo"
+    ],
+    "aliases": [
+      "Setor de Garagens Ministeriais"
+    ],
+    "fonte": "SEDH / validar"
+  },
+  {
+    "sigla": "SMAN",
+    "nome": "Setor de Múltiplas Atividades Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na área norte do Plano Piloto.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa norte",
+      "atividades",
+      "setor"
+    ],
+    "aliases": [
+      "SMAN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SMAS",
+    "nome": "Setor de Múltiplas Atividades Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na área sul do Plano Piloto.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "asa sul",
+      "atividades",
+      "setor"
+    ],
+    "aliases": [
+      "SMAS"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "AOS",
+    "nome": "Área Octogonal Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área residencial conhecida como Octogonal Sul.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "octogonal",
+      "residencial",
+      "sul"
+    ],
+    "aliases": [
+      "Octogonal Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "EPIG",
+    "nome": "Estrada Parque Indústrias Gráficas",
+    "categoria": "Logradouro",
+    "descricao_curta": "Importante via de ligação entre o Eixo Monumental, Sudoeste, Octogonal e outras áreas de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "estrada",
+      "via",
+      "sudoeste",
+      "octogonal"
+    ],
+    "aliases": [
+      "EPIG",
+      "Estrada Parque Indústrias Gráficas"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EPNB",
+    "nome": "Estrada Parque Núcleo Bandeirante",
+    "categoria": "Logradouro",
+    "descricao_curta": "Importante via de ligação entre Brasília, Núcleo Bandeirante, Candangolândia e regiões próximas.",
+    "regiao": "DF",
+    "tags": [
+      "estrada",
+      "via",
+      "nucleo bandeirante",
+      "candangolandia"
+    ],
+    "aliases": [
+      "DF-075",
+      "EPNB",
+      "Estrada Parque Núcleo Bandeirante"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "EPIA",
+    "nome": "Estrada Parque Indústria e Abastecimento",
+    "categoria": "Logradouro",
+    "descricao_curta": "Uma das principais vias estruturais do Distrito Federal, atravessando áreas industriais e conectando importantes regiões do DF.",
+    "regiao": "DF",
+    "tags": [
+      "estrada",
+      "industria",
+      "abastecimento",
+      "via",
+      "rodovia"
+    ],
+    "aliases": [
+      "DF-003",
+      "EPIA",
+      "Estrada Parque Indústria e Abastecimento"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "EPCT",
+    "nome": "Estrada Parque Contorno",
+    "categoria": "Logradouro",
+    "descricao_curta": "Rodovia que contorna e conecta diversas regiões administrativas do Distrito Federal.",
+    "regiao": "DF",
+    "tags": [
+      "estrada",
+      "contorno",
+      "via",
+      "rodovia"
+    ],
+    "aliases": [
+      "DF-001",
+      "EPCT",
+      "EPCL",
+      "Estrada Parque Contorno",
+      "Pistão"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "EPTG",
+    "nome": "Estrada Parque Taguatinga",
+    "categoria": "Logradouro",
+    "descricao_curta": "Importante corredor viário que liga Brasília, Águas Claras, Vicente Pires e Taguatinga.",
+    "regiao": "DF",
+    "tags": [
+      "estrada",
+      "taguatinga",
+      "aguas claras",
+      "vicente pires",
+      "via"
+    ],
+    "aliases": [
+      "DF-085",
+      "EPTG",
+      "Estrada Parque Taguatinga"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "EPGU",
+    "nome": "Estrada Parque Guará",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via estrutural de ligação da região do Guará com outras áreas do Distrito Federal.",
+    "regiao": "Guará",
+    "tags": [
+      "estrada",
+      "guara",
+      "via"
+    ],
+    "aliases": [
+      "DF-079",
+      "EPGU",
+      "Estrada Parque Guará"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "Guará"
+    ]
+  },
+  {
+    "sigla": "EPDB",
+    "nome": "Estrada Parque Dom Bosco",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via estrutural da região do Lago Sul, acompanhando áreas próximas ao Lago Paranoá.",
+    "regiao": "Lago Sul",
+    "tags": [
+      "estrada",
+      "lago sul",
+      "via",
+      "lago paranoa"
+    ],
+    "aliases": [
+      "DF-025",
+      "EPDB",
+      "Estrada Parque Dom Bosco"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "Lago Sul"
+    ]
+  },
+  {
+    "sigla": "EPAR",
+    "nome": "Estrada Parque Aeroporto",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via de acesso ao Aeroporto Internacional de Brasília e de ligação com o centro da cidade.",
+    "regiao": "DF",
+    "tags": [
+      "estrada",
+      "aeroporto",
+      "via"
+    ],
+    "aliases": [
+      "EPAR",
+      "Estrada Parque Aeroporto"
+    ],
+    "fonte": "DER-DF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "EPVL",
+    "nome": "Estrada Parque Vicente Pires / Estrutural",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via associada à ligação viária da região de Vicente Pires.",
+    "regiao": "Vicente Pires",
+    "regioes": [
+      "Vicente Pires"
+    ],
+    "tags": [
+      "vicente pires",
+      "estrada",
+      "via"
+    ],
+    "aliases": [
+      "DF-087",
+      "EPVL"
+    ],
+    "fonte": "DER-DF / validar"
+  },
+  {
+    "sigla": "EPAC",
+    "nome": "Estrada Parque Acampamento",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via identificada como DF-097 e associada à região de Vicente Pires e áreas próximas.",
+    "regiao": "Vicente Pires",
+    "regioes": [
+      "Vicente Pires"
+    ],
+    "tags": [
+      "vicente pires",
+      "estrada",
+      "via"
+    ],
+    "aliases": [
+      "DF-097",
+      "EPAC"
+    ],
+    "fonte": "DER-DF / validar"
+  },
+  {
+    "sigla": "QNA",
+    "nome": "Quadra Norte A",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNA"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNB",
+    "nome": "Quadra Norte B",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNB"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNC",
+    "nome": "Quadra Norte C",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNC"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QND",
+    "nome": "Quadra Norte D",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QND"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNE",
+    "nome": "Quadra Norte E",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNE"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNF",
+    "nome": "Quadra Norte F",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNF"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNG",
+    "nome": "Quadra Norte G",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNG"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNH",
+    "nome": "Quadra Norte H",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNH"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNJ",
+    "nome": "Quadra Norte J",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNJ"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNL",
+    "nome": "Quadra Norte L",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNL"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNM",
+    "nome": "Quadra Norte M",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra da região M Norte, tradicionalmente associada a Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga",
+      "Ceilândia"
+    ],
+    "tags": [
+      "taguatinga",
+      "m norte",
+      "quadra",
+      "ceilandia"
+    ],
+    "aliases": [
+      "QNM",
+      "M Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QSA",
+    "nome": "Quadra Sul A",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região sul de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "QSA"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QSC",
+    "nome": "Quadra Sul C",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região sul de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "QSC"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QSD",
+    "nome": "Quadra Sul D",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região sul de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "QSD"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QSE",
+    "nome": "Quadra Sul E",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região sul de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "QSE"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QSF",
+    "nome": "Quadra Sul F",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Quadra tradicional da região sul de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "QSF"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "CNA",
+    "nome": "Comercial Norte A",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área comercial de Taguatinga Norte.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "comercial",
+      "norte"
+    ],
+    "aliases": [
+      "CNA"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "CNB",
+    "nome": "Comercial Norte B",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área comercial de Taguatinga Norte.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "comercial",
+      "norte"
+    ],
+    "aliases": [
+      "CNB"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "CND",
+    "nome": "Comercial Norte D",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área comercial de Taguatinga Norte.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "comercial",
+      "norte"
+    ],
+    "aliases": [
+      "CND"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "EQNG",
+    "nome": "Entrequadra Norte G",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Entrequadra da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "entrequadra",
+      "norte"
+    ],
+    "aliases": [
+      "EQNG"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "EQNJ",
+    "nome": "Entrequadra Norte J",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Entrequadra da região norte de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "entrequadra",
+      "norte"
+    ],
+    "aliases": [
+      "EQNJ"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "QNN",
+    "nome": "Quadra Norte N",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Padrão de identificação de quadras utilizado em Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNO",
+    "nome": "Quadra Norte O",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Padrão de identificação de quadras utilizado em Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNO"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNP",
+    "nome": "Quadra Norte P",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Padrão de identificação de quadras utilizado em Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNP"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNQ",
+    "nome": "Quadra Norte Q",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Padrão de identificação de quadras utilizado em Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNQ"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QNR",
+    "nome": "Quadra Norte R",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Padrão de identificação de quadras utilizado em Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "quadra",
+      "norte"
+    ],
+    "aliases": [
+      "QNR"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QN",
+    "nome": "Quadra Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Prefixo utilizado em endereços de Samambaia para identificação de quadras.",
+    "regiao": "Samambaia",
+    "regioes": [
+      "Samambaia",
+      "Riacho Fundo",
+      "Recanto das Emas"
+    ],
+    "tags": [
+      "samambaia",
+      "quadra",
+      "norte",
+      "riacho fundo",
+      "recanto das emas"
+    ],
+    "aliases": [
+      "Quadra Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QS",
+    "nome": "Quadra Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Prefixo utilizado em endereços de Samambaia.",
+    "regiao": "Samambaia",
+    "regioes": [
+      "Samambaia"
+    ],
+    "tags": [
+      "samambaia",
+      "quadra",
+      "sul"
+    ],
+    "aliases": [
+      "Quadra Sul"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "QC",
+    "nome": "Quadra Conjunto",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Prefixo encontrado em endereços do Riacho Fundo II.",
+    "regiao": "Riacho Fundo II",
+    "regioes": [
+      "Riacho Fundo II"
+    ],
+    "tags": [
+      "riacho fundo ii",
+      "quadra",
+      "conjunto"
+    ],
+    "aliases": [
+      "Quadra Conjunto"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHIS",
+    "nome": "Setor de Habitações Individuais Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Grande setor residencial do Lago Sul.",
+    "regiao": "Lago Sul",
+    "regioes": [
+      "Lago Sul"
+    ],
+    "tags": [
+      "lago sul",
+      "residencial",
+      "setor"
+    ],
+    "aliases": [
+      "SHIS"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SMDB",
+    "nome": "Setor de Mansões Dom Bosco",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial de grandes lotes localizado no Lago Sul.",
+    "regiao": "Lago Sul",
+    "regioes": [
+      "Lago Sul"
+    ],
+    "tags": [
+      "lago sul",
+      "mansoes",
+      "residencial"
+    ],
+    "aliases": [
+      "SMDB"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SML",
+    "nome": "Setor de Mansões do Lago",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial associado às áreas próximas ao Lago Paranoá.",
+    "regiao": "Lago Sul / Lago Norte",
+    "regioes": [
+      "Lago Sul / Lago Norte"
+    ],
+    "tags": [
+      "lago",
+      "mansoes",
+      "residencial"
+    ],
+    "aliases": [
+      "Setor de Mansões do Lago"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHIN",
+    "nome": "Setor de Habitações Individuais Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Grande setor residencial do Lago Norte.",
+    "regiao": "Lago Norte",
+    "regioes": [
+      "Lago Norte"
+    ],
+    "tags": [
+      "lago norte",
+      "residencial",
+      "setor"
+    ],
+    "aliases": [
+      "SHIN"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHVP",
+    "nome": "Setor Habitacional Vicente Pires",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor habitacional que identifica a região de Vicente Pires.",
+    "regiao": "Vicente Pires",
+    "regioes": [
+      "Vicente Pires"
+    ],
+    "tags": [
+      "vicente pires",
+      "setor habitacional",
+      "residencial"
+    ],
+    "aliases": [
+      "SHVP"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SMPW",
+    "nome": "Setor de Mansões Park Way",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial caracterizado por grandes lotes e conjuntos habitacionais.",
+    "regiao": "Park Way",
+    "regioes": [
+      "Park Way"
+    ],
+    "tags": [
+      "park way",
+      "mansoes",
+      "residencial"
+    ],
+    "aliases": [
+      "SMPW",
+      "Setor de Mansões Park-Way"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SRES",
+    "nome": "Setor de Residências Econômicas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial associado ao Cruzeiro Velho.",
+    "regiao": "Cruzeiro",
+    "regioes": [
+      "Cruzeiro"
+    ],
+    "tags": [
+      "cruzeiro",
+      "residencial",
+      "setor"
+    ],
+    "aliases": [
+      "SRES"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "SHCES",
+    "nome": "Setor de Habitações Coletivas Econômicas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor residencial associado ao Cruzeiro Novo.",
+    "regiao": "Cruzeiro",
+    "regioes": [
+      "Cruzeiro"
+    ],
+    "tags": [
+      "cruzeiro",
+      "residencial",
+      "habitacao"
+    ],
+    "aliases": [
+      "SHCES"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "EQR",
+    "nome": "Entrequadra Residencial",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Entrequadra residencial utilizada na estrutura de endereçamento da Candangolândia.",
+    "regiao": "Candangolândia",
+    "regioes": [
+      "Candangolândia"
+    ],
+    "tags": [
+      "candangolandia",
+      "entrequadra",
+      "residencial"
+    ],
+    "aliases": [
+      "Entrequadra Residencial"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "QRO",
+    "nome": "Quadra Residencial dos Oficiais",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área residencial associada ao Setor Militar Urbano.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "militar",
+      "residencial",
+      "oficiais"
+    ],
+    "aliases": [
+      "Quadra Residencial dos Oficiais"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "DCAG",
+    "nome": "Distrito de Colonização Alexandre de Gusmão",
+    "categoria": "Localidade",
+    "descricao_curta": "Área rural e de colonização localizada na região de Brazlândia.",
+    "regiao": "Brazlândia",
+    "regioes": [
+      "Brazlândia"
+    ],
+    "tags": [
+      "brazlandia",
+      "rural",
+      "colonizacao"
+    ],
+    "aliases": [
+      "Alexandre de Gusmão",
+      "Distrito de Colonização"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "VC",
+    "nome": "Via de Circulação / Rodovia Vicinal",
+    "categoria": "Logradouro",
+    "descricao_curta": "Abreviação encontrada em endereços e vias vicinais de áreas como Sobradinho.",
+    "regiao": "Sobradinho",
+    "regioes": [
+      "Sobradinho"
+    ],
+    "tags": [
+      "sobradinho",
+      "via",
+      "rodovia"
+    ],
+    "aliases": [
+      "Via Vicinal"
+    ],
+    "fonte": "SEEDF / validar"
+  },
+  {
+    "sigla": "RA-I",
+    "nome": "Região Administrativa de Brasília",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação histórica da Região Administrativa de Brasília.",
+    "regiao": "Brasília",
+    "regioes": [
+      "Brasília"
+    ],
+    "tags": [
+      "brasilia",
+      "RA-I",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA I",
+      "Brasília"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-II",
+    "nome": "Região Administrativa do Gama",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Gama.",
+    "regiao": "Gama",
+    "regioes": [
+      "Gama"
+    ],
+    "tags": [
+      "gama",
+      "RA-II",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA II",
+      "Gama"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-III",
+    "nome": "Região Administrativa de Taguatinga",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Taguatinga.",
+    "regiao": "Taguatinga",
+    "regioes": [
+      "Taguatinga"
+    ],
+    "tags": [
+      "taguatinga",
+      "RA-III",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA III",
+      "Taguatinga"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-IV",
+    "nome": "Região Administrativa de Brazlândia",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Brazlândia.",
+    "regiao": "Brazlândia",
+    "regioes": [
+      "Brazlândia"
+    ],
+    "tags": [
+      "brazlandia",
+      "RA-IV",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA IV",
+      "Brazlândia"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-V",
+    "nome": "Região Administrativa de Sobradinho",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Sobradinho.",
+    "regiao": "Sobradinho",
+    "regioes": [
+      "Sobradinho"
+    ],
+    "tags": [
+      "sobradinho",
+      "RA-V",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA V",
+      "Sobradinho"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-VI",
+    "nome": "Região Administrativa de Planaltina",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Planaltina.",
+    "regiao": "Planaltina",
+    "regioes": [
+      "Planaltina"
+    ],
+    "tags": [
+      "planaltina",
+      "RA-VI",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA VI",
+      "Planaltina"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-IX",
+    "nome": "Região Administrativa de Ceilândia",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Ceilândia.",
+    "regiao": "Ceilândia",
+    "regioes": [
+      "Ceilândia"
+    ],
+    "tags": [
+      "ceilandia",
+      "RA-IX",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA IX",
+      "Ceilândia"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-X",
+    "nome": "Região Administrativa do Guará",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Guará.",
+    "regiao": "Guará",
+    "regioes": [
+      "Guará"
+    ],
+    "tags": [
+      "guara",
+      "RA-X",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA X",
+      "Guará"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XII",
+    "nome": "Região Administrativa de Samambaia",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Samambaia.",
+    "regiao": "Samambaia",
+    "regioes": [
+      "Samambaia"
+    ],
+    "tags": [
+      "samambaia",
+      "RA-XII",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XII",
+      "Samambaia"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XIII",
+    "nome": "Região Administrativa de Santa Maria",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Santa Maria.",
+    "regiao": "Santa Maria",
+    "regioes": [
+      "Santa Maria"
+    ],
+    "tags": [
+      "santa maria",
+      "RA-XIII",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XIII",
+      "Santa Maria"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XVII",
+    "nome": "Região Administrativa de Riacho Fundo",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Riacho Fundo.",
+    "regiao": "Riacho Fundo",
+    "regioes": [
+      "Riacho Fundo"
+    ],
+    "tags": [
+      "riacho fundo",
+      "RA-XVII",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XVII",
+      "Riacho Fundo"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XVIII",
+    "nome": "Região Administrativa do Lago Norte",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Lago Norte.",
+    "regiao": "Lago Norte",
+    "regioes": [
+      "Lago Norte"
+    ],
+    "tags": [
+      "lago norte",
+      "RA-XVIII",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XVIII",
+      "Lago Norte"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XIX",
+    "nome": "Região Administrativa do Candangolândia",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa da Candangolândia.",
+    "regiao": "Candangolândia",
+    "regioes": [
+      "Candangolândia"
+    ],
+    "tags": [
+      "candangolandia",
+      "RA-XIX",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XIX",
+      "Candangolândia"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XX",
+    "nome": "Região Administrativa de Águas Claras",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Águas Claras.",
+    "regiao": "Águas Claras",
+    "regioes": [
+      "Águas Claras"
+    ],
+    "tags": [
+      "aguas claras",
+      "RA-XX",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XX",
+      "Águas Claras"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXI",
+    "nome": "Região Administrativa do Riacho Fundo II",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Riacho Fundo II.",
+    "regiao": "Riacho Fundo II",
+    "regioes": [
+      "Riacho Fundo II"
+    ],
+    "tags": [
+      "riacho fundo ii",
+      "RA-XXI",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XXI",
+      "Riacho Fundo II"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXIII",
+    "nome": "Região Administrativa do Varjão",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Varjão.",
+    "regiao": "Varjão",
+    "regioes": [
+      "Varjão"
+    ],
+    "tags": [
+      "varjao",
+      "RA-XXIII",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XXIII",
+      "Varjão"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXIV",
+    "nome": "Região Administrativa do Park Way",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Park Way.",
+    "regiao": "Park Way",
+    "regioes": [
+      "Park Way"
+    ],
+    "tags": [
+      "park way",
+      "RA-XXIV",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XXIV",
+      "Park Way"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXIX",
+    "nome": "Região Administrativa do SIA",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa do Setor de Indústria e Abastecimento.",
+    "regiao": "SIA",
+    "regioes": [
+      "SIA"
+    ],
+    "tags": [
+      "sia",
+      "industria",
+      "RA-XXIX"
+    ],
+    "aliases": [
+      "RA XXIX",
+      "SIA"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXX",
+    "nome": "Região Administrativa de Vicente Pires",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa de Vicente Pires.",
+    "regiao": "Vicente Pires",
+    "regioes": [
+      "Vicente Pires"
+    ],
+    "tags": [
+      "vicente pires",
+      "RA-XXX",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XXX",
+      "Vicente Pires"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXXI",
+    "nome": "Região Administrativa de Fercal",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa da Fercal.",
+    "regiao": "Fercal",
+    "regioes": [
+      "Fercal"
+    ],
+    "tags": [
+      "fercal",
+      "RA-XXXI",
+      "regiao administrativa"
+    ],
+    "aliases": [
+      "RA XXXI",
+      "Fercal"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "RA-XXXII",
+    "nome": "Região Administrativa de Sol Nascente e Pôr do Sol",
+    "categoria": "Região administrativa",
+    "descricao_curta": "Identificação administrativa da região do Sol Nascente e Pôr do Sol.",
+    "regiao": "Sol Nascente/Pôr do Sol",
+    "regioes": [
+      "Sol Nascente/Pôr do Sol"
+    ],
+    "tags": [
+      "sol nascente",
+      "por do sol",
+      "RA-XXXII"
+    ],
+    "aliases": [
+      "RA XXXII",
+      "Sol Nascente",
+      "Pôr do Sol"
+    ],
+    "fonte": "GDF / validar"
+  },
+  {
+    "sigla": "W3",
+    "nome": "Via W3",
+    "categoria": "Logradouro",
+    "descricao_curta": "Importante avenida longitudinal de Brasília que percorre as Asas Sul e Norte, com áreas comerciais e residenciais.",
+    "regiao": "Brasília",
+    "tags": [
+      "w3",
+      "asa sul",
+      "asa norte",
+      "avenida",
+      "comercio"
+    ],
+    "aliases": [
+      "W-3",
+      "W3 Sul",
+      "W3 Norte",
+      "Via W3",
+      "Avenida W3"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "W3S",
+    "nome": "W3 Sul",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho sul da Avenida W3, importante corredor comercial e de transporte da Asa Sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "w3",
+      "w3 sul",
+      "asa sul",
+      "avenida",
+      "comercio"
+    ],
+    "aliases": [
+      "W3 Sul",
+      "W-3 Sul",
+      "W3S"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "W3N",
+    "nome": "W3 Norte",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho norte da Avenida W3, importante corredor comercial e de transporte da Asa Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "w3",
+      "w3 norte",
+      "asa norte",
+      "avenida",
+      "comercio"
+    ],
+    "aliases": [
+      "W3 Norte",
+      "W-3 Norte",
+      "W3N"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L2",
+    "nome": "Via L2",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal de Brasília localizada entre as superquadras e áreas de comércio e serviços das Asas Sul e Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "l2",
+      "asa sul",
+      "asa norte",
+      "via"
+    ],
+    "aliases": [
+      "L-2",
+      "L2 Sul",
+      "L2 Norte",
+      "Via L2"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L2S",
+    "nome": "L2 Sul",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal localizada na Asa Sul, paralela às superquadras residenciais.",
+    "regiao": "Brasília",
+    "tags": [
+      "l2",
+      "l2 sul",
+      "asa sul",
+      "via"
+    ],
+    "aliases": [
+      "L2 Sul",
+      "L-2 Sul",
+      "L2S"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L2N",
+    "nome": "L2 Norte",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal localizada na Asa Norte, paralela às superquadras residenciais.",
+    "regiao": "Brasília",
+    "tags": [
+      "l2",
+      "l2 norte",
+      "asa norte",
+      "via"
+    ],
+    "aliases": [
+      "L2 Norte",
+      "L-2 Norte",
+      "L2N"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L4",
+    "nome": "Via L4",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal localizada nas áreas mais externas das Asas Sul e Norte de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "l4",
+      "via",
+      "asa sul",
+      "asa norte"
+    ],
+    "aliases": [
+      "L-4",
+      "L4 Sul",
+      "L4 Norte",
+      "Via L4"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L4S",
+    "nome": "L4 Sul",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal da Asa Sul, próxima ao Lago Paranoá.",
+    "regiao": "Brasília",
+    "tags": [
+      "l4",
+      "l4 sul",
+      "asa sul",
+      "lago paranoa"
+    ],
+    "aliases": [
+      "L4 Sul",
+      "L-4 Sul",
+      "L4S"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "L4N",
+    "nome": "L4 Norte",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal da Asa Norte, próxima ao Lago Paranoá.",
+    "regiao": "Brasília",
+    "tags": [
+      "l4",
+      "l4 norte",
+      "asa norte",
+      "lago paranoa"
+    ],
+    "aliases": [
+      "L4 Norte",
+      "L-4 Norte",
+      "L4N"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXÃO",
+    "nome": "Eixo Rodoviário",
+    "categoria": "Logradouro",
+    "descricao_curta": "Principal eixo viário longitudinal de Brasília, conhecido popularmente como Eixão, atravessando as Asas Sul e Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixao",
+      "eixo rodoviario",
+      "asa sul",
+      "asa norte",
+      "via"
+    ],
+    "aliases": [
+      "Eixão",
+      "Eixao",
+      "Eixo Rodoviário",
+      "Eixo Rodoviario",
+      "Eixo Rodoviário Norte-Sul"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXÃO SUL",
+    "nome": "Eixo Rodoviário Sul",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho sul do Eixo Rodoviário que atravessa a Asa Sul de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixao",
+      "eixao sul",
+      "asa sul",
+      "via"
+    ],
+    "aliases": [
+      "Eixão Sul",
+      "Eixao Sul",
+      "Eixo Rodoviário Sul",
+      "Eixo Sul"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXÃO NORTE",
+    "nome": "Eixo Rodoviário Norte",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho norte do Eixo Rodoviário que atravessa a Asa Norte de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixao",
+      "eixao norte",
+      "asa norte",
+      "via"
+    ],
+    "aliases": [
+      "Eixão Norte",
+      "Eixao Norte",
+      "Eixo Rodoviário Norte",
+      "Eixo Norte"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXINHO",
+    "nome": "Eixo Rodoviário Auxiliar",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via paralela ao Eixão, utilizada para circulação local nas Asas Sul e Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixinho",
+      "eixo rodoviario",
+      "via",
+      "brasilia"
+    ],
+    "aliases": [
+      "Eixinho",
+      "Eixinho Sul",
+      "Eixinho Norte",
+      "Eixo Rodoviário Auxiliar"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXINHO SUL",
+    "nome": "Eixo Rodoviário Auxiliar Sul",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho sul do Eixinho, paralelo ao Eixão na Asa Sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixinho",
+      "eixinho sul",
+      "asa sul",
+      "via"
+    ],
+    "aliases": [
+      "Eixinho Sul",
+      "Eixinho Sul de Brasília",
+      "Eixo Rodoviário Auxiliar Sul"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXINHO NORTE",
+    "nome": "Eixo Rodoviário Auxiliar Norte",
+    "categoria": "Logradouro",
+    "descricao_curta": "Trecho norte do Eixinho, paralelo ao Eixão na Asa Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixinho",
+      "eixinho norte",
+      "asa norte",
+      "via"
+    ],
+    "aliases": [
+      "Eixinho Norte",
+      "Eixinho Norte de Brasília",
+      "Eixo Rodoviário Auxiliar Norte"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EIXO MONUMENTAL",
+    "nome": "Eixo Monumental",
+    "categoria": "Logradouro",
+    "descricao_curta": "Grande eixo viário leste-oeste de Brasília que conecta a região central à Praça dos Três Poderes e à área da Rodoferroviária.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixo monumental",
+      "esplanada",
+      "centro",
+      "brasilia",
+      "via"
+    ],
+    "aliases": [
+      "Eixo Monumental",
+      "Eixo Central",
+      "Eixo Monumental de Brasília"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "W4",
+    "nome": "Via W4",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal das Asas Sul e Norte, situada entre a W3 e as superquadras.",
+    "regiao": "Brasília",
+    "tags": [
+      "w4",
+      "via",
+      "asa sul",
+      "asa norte"
+    ],
+    "aliases": [
+      "W-4",
+      "W4 Sul",
+      "W4 Norte",
+      "Via W4"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "W5",
+    "nome": "Via W5",
+    "categoria": "Logradouro",
+    "descricao_curta": "Via longitudinal localizada nas Asas Sul e Norte de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "w5",
+      "via",
+      "asa sul",
+      "asa norte"
+    ],
+    "aliases": [
+      "W-5",
+      "W5 Sul",
+      "W5 Norte",
+      "Via W5"
+    ],
+    "fonte": "Brasília / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "CCBB",
+    "nome": "Centro Cultural Banco do Brasil",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Centro cultural localizado às margens do Lago Paranoá, próximo à Ponte JK.",
+    "regiao": "Brasília",
+    "tags": [
+      "cultura",
+      "turismo",
+      "lago paranoa",
+      "ponte jk"
+    ],
+    "aliases": [
+      "CCBB Brasília",
+      "Centro Cultural Banco do Brasil",
+      "CCBB-DF"
+    ],
+    "fonte": "CCBB / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SEB",
+    "nome": "Setor de Embaixadas",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área de Brasília destinada à localização de representações diplomáticas estrangeiras.",
+    "regiao": "Brasília",
+    "tags": [
+      "embaixadas",
+      "diplomacia",
+      "brasilia",
+      "setor"
+    ],
+    "aliases": [
+      "Setor de Embaixadas",
+      "Setor de Embaixadas Sul e Norte",
+      "SEB"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SESS",
+    "nome": "Setor de Embaixadas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área localizada na região sul de Brasília destinada principalmente a embaixadas e representações diplomáticas.",
+    "regiao": "Brasília",
+    "tags": [
+      "embaixadas",
+      "diplomacia",
+      "asa sul",
+      "setor"
+    ],
+    "aliases": [
+      "SES",
+      "Setor de Embaixadas Sul"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SEN",
+    "nome": "Setor de Embaixadas Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área localizada na região norte de Brasília destinada a embaixadas e representações diplomáticas.",
+    "regiao": "Brasília",
+    "tags": [
+      "embaixadas",
+      "diplomacia",
+      "asa norte",
+      "setor"
+    ],
+    "aliases": [
+      "SEN",
+      "Setor de Embaixadas Norte"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "ES",
+    "nome": "Esplanada dos Ministérios",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área monumental de Brasília que concentra os ministérios do Governo Federal.",
+    "regiao": "Brasília",
+    "tags": [
+      "esplanada",
+      "ministerios",
+      "governo federal"
+    ],
+    "aliases": [
+      "Esplanada dos Ministérios",
+      "Esplanada",
+      "ES"
+    ],
+    "fonte": "Governo Federal / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "EPP",
+    "nome": "Eixo Monumental",
+    "categoria": "Logradouro",
+    "descricao_curta": "Eixo monumental que estrutura a área central de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "eixo monumental",
+      "centro",
+      "brasilia"
+    ],
+    "aliases": [
+      "Eixo Monumental",
+      "Eixo Monumental de Brasília"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "RODO",
+    "nome": "Rodoviária do Plano Piloto",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Principal terminal de transporte público localizado no centro do Plano Piloto.",
+    "regiao": "Brasília",
+    "tags": [
+      "rodoviaria",
+      "transporte",
+      "plano piloto",
+      "centro"
+    ],
+    "aliases": [
+      "Rodoviária",
+      "Rodoviária do Plano Piloto",
+      "Rodoviária de Brasília"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "TST",
+    "nome": "Tribunal Superior do Trabalho",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Tribunal superior localizado na região do Setor de Administração Federal Sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "tribunal",
+      "justica",
+      "governo"
+    ],
+    "aliases": [
+      "TST"
+    ],
+    "fonte": "TST / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "STF",
+    "nome": "Supremo Tribunal Federal",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Suprema corte brasileira localizada na Praça dos Três Poderes.",
+    "regiao": "Brasília",
+    "tags": [
+      "stf",
+      "justica",
+      "praca dos tres poderes"
+    ],
+    "aliases": [
+      "Supremo Tribunal Federal",
+      "STF"
+    ],
+    "fonte": "STF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "STJ",
+    "nome": "Superior Tribunal de Justiça",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Tribunal superior localizado no Setor de Administração Federal Sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "stj",
+      "justica",
+      "tribunal"
+    ],
+    "aliases": [
+      "Superior Tribunal de Justiça",
+      "STJ"
+    ],
+    "fonte": "STJ / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "TCU",
+    "nome": "Tribunal de Contas da União",
+    "categoria": "Ponto de referência",
+    "descricao_curta": "Órgão federal de controle externo localizado em Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "tcu",
+      "controle",
+      "governo federal"
+    ],
+    "aliases": [
+      "Tribunal de Contas da União",
+      "TCU"
+    ],
+    "fonte": "TCU / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SIA",
+    "nome": "Setor de Indústria e Abastecimento",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Grande área industrial, comercial e logística do Distrito Federal, localizada na região do Guará.",
+    "regiao": "SIA",
+    "tags": [
+      "industria",
+      "abastecimento",
+      "comercio",
+      "logistica",
+      "guara"
+    ],
+    "aliases": [
+      "Setor de Indústria e Abastecimento",
+      "SIA-DF",
+      "RA-XXIX"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "SIA"
+    ]
+  },
+  {
+    "sigla": "SIG",
+    "nome": "Setor de Indústrias Gráficas",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor de Brasília destinado originalmente a atividades gráficas, editoriais, industriais, comerciais e de serviços.",
+    "regiao": "Brasília",
+    "tags": [
+      "industria",
+      "graficas",
+      "comercio",
+      "servicos"
+    ],
+    "aliases": [
+      "Setor de Indústrias Gráficas",
+      "SIG-DF"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SAAN",
+    "nome": "Setor de Armazenagem e Abastecimento Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado principalmente a atividades de armazenagem, abastecimento, comércio e serviços na região norte de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "armazenagem",
+      "abastecimento",
+      "comercio",
+      "norte"
+    ],
+    "aliases": [
+      "Setor de Armazenagem e Abastecimento Norte",
+      "SAAN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SAIN",
+    "nome": "Setor de Áreas Isoladas Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na área norte de Brasília, composto por áreas institucionais e atividades específicas.",
+    "regiao": "Brasília",
+    "tags": [
+      "areas isoladas",
+      "norte",
+      "institucional"
+    ],
+    "aliases": [
+      "Setor de Áreas Isoladas Norte",
+      "SAIN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SAIS",
+    "nome": "Setor de Áreas Isoladas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na área sul de Brasília, composto por áreas institucionais e atividades específicas.",
+    "regiao": "Brasília",
+    "tags": [
+      "areas isoladas",
+      "sul",
+      "institucional"
+    ],
+    "aliases": [
+      "Setor de Áreas Isoladas Sul",
+      "SAIS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCIA",
+    "nome": "Setor Complementar de Indústria e Abastecimento",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Região destinada predominantemente a atividades industriais, comerciais, logísticas e de abastecimento.",
+    "regiao": "SCIA",
+    "tags": [
+      "industria",
+      "abastecimento",
+      "comercio",
+      "logistica"
+    ],
+    "aliases": [
+      "Setor Complementar de Indústria e Abastecimento",
+      "SCIA-DF",
+      "RA-XXV"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "SCIA"
+    ]
+  },
+  {
+    "sigla": "SOFN",
+    "nome": "Setor de Oficinas Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na região norte de Brasília destinado principalmente a oficinas e atividades de serviços.",
+    "regiao": "Brasília",
+    "tags": [
+      "oficinas",
+      "servicos",
+      "norte",
+      "veiculos"
+    ],
+    "aliases": [
+      "Setor de Oficinas Norte",
+      "SOF Norte",
+      "SOFN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SOFS",
+    "nome": "Setor de Oficinas Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado na região sul de Brasília destinado principalmente a oficinas e atividades de serviços.",
+    "regiao": "Brasília",
+    "tags": [
+      "oficinas",
+      "servicos",
+      "sul",
+      "veiculos"
+    ],
+    "aliases": [
+      "Setor de Oficinas Sul",
+      "SOF Sul",
+      "SOFS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SGCV",
+    "nome": "Setor de Garagens e Concessionárias de Veículos",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado principalmente a concessionárias, comércio e serviços relacionados a veículos.",
+    "regiao": "Brasília",
+    "tags": [
+      "garagens",
+      "concessionarias",
+      "veiculos",
+      "comercio"
+    ],
+    "aliases": [
+      "Setor de Garagens e Concessionárias de Veículos",
+      "SGCV"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SGCL",
+    "nome": "Setor de Garagens e Comércio Local",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a atividades de comércio local, garagens e serviços.",
+    "regiao": "Brasília",
+    "tags": [
+      "garagens",
+      "comercio",
+      "servicos"
+    ],
+    "aliases": [
+      "Setor de Garagens e Comércio Local",
+      "SGCL"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SGMN",
+    "nome": "Setor de Garagens dos Ministérios Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a garagens e instalações de apoio aos ministérios na área norte de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "garagens",
+      "ministerios",
+      "governo",
+      "norte"
+    ],
+    "aliases": [
+      "Setor de Garagens dos Ministérios Norte",
+      "SGMN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SGMS",
+    "nome": "Setor de Garagens dos Ministérios Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a garagens e instalações de apoio aos ministérios na área sul de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "garagens",
+      "ministerios",
+      "governo",
+      "sul"
+    ],
+    "aliases": [
+      "Setor de Garagens dos Ministérios Sul",
+      "SGMS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SMA",
+    "nome": "Setor de Múltiplas Atividades",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Designação genérica para setores destinados a múltiplas atividades urbanas.",
+    "regiao": "DF",
+    "tags": [
+      "multiplas atividades",
+      "setor",
+      "comercio",
+      "servicos"
+    ],
+    "aliases": [
+      "Setor de Múltiplas Atividades",
+      "SMA"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "DF"
+    ]
+  },
+  {
+    "sigla": "SCEN",
+    "nome": "Setor de Clubes Esportivos Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado às margens do Lago Paranoá, destinado a clubes e atividades esportivas.",
+    "regiao": "Brasília",
+    "tags": [
+      "clubes",
+      "esportes",
+      "lago paranoa",
+      "norte"
+    ],
+    "aliases": [
+      "Setor de Clubes Esportivos Norte",
+      "SCEN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCES",
+    "nome": "Setor de Clubes Esportivos Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor localizado às margens do Lago Paranoá, destinado a clubes e atividades esportivas.",
+    "regiao": "Brasília",
+    "tags": [
+      "clubes",
+      "esportes",
+      "lago paranoa",
+      "sul"
+    ],
+    "aliases": [
+      "Setor de Clubes Esportivos Sul",
+      "SCES"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SHN",
+    "nome": "Setor Hoteleiro Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto que concentra hotéis e atividades relacionadas à hospedagem.",
+    "regiao": "Brasília",
+    "tags": [
+      "hotel",
+      "hospedagem",
+      "norte"
+    ],
+    "aliases": [
+      "Setor Hoteleiro Norte",
+      "SHN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SHS",
+    "nome": "Setor Hoteleiro Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor do Plano Piloto que concentra hotéis e atividades relacionadas à hospedagem.",
+    "regiao": "Brasília",
+    "tags": [
+      "hotel",
+      "hospedagem",
+      "sul"
+    ],
+    "aliases": [
+      "Setor Hoteleiro Sul",
+      "SHS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SMHN",
+    "nome": "Setor Médico-Hospitalar Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor da Asa Norte que concentra hospitais, clínicas e serviços de saúde.",
+    "regiao": "Brasília",
+    "tags": [
+      "hospital",
+      "medico",
+      "saude",
+      "norte"
+    ],
+    "aliases": [
+      "Setor Médico Hospitalar Norte",
+      "SMHN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SMHS",
+    "nome": "Setor Médico-Hospitalar Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor da Asa Sul que concentra hospitais, clínicas e serviços de saúde.",
+    "regiao": "Brasília",
+    "tags": [
+      "hospital",
+      "medico",
+      "saude",
+      "sul"
+    ],
+    "aliases": [
+      "Setor Médico Hospitalar Sul",
+      "SMHS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCRN",
+    "nome": "Setor Comercial Residencial Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor da Asa Norte que combina atividades comerciais e residenciais.",
+    "regiao": "Brasília",
+    "tags": [
+      "comercial",
+      "residencial",
+      "norte"
+    ],
+    "aliases": [
+      "Setor Comercial Residencial Norte",
+      "SCRN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCRS",
+    "nome": "Setor Comercial Residencial Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor da Asa Sul que combina atividades comerciais e residenciais.",
+    "regiao": "Brasília",
+    "tags": [
+      "comercial",
+      "residencial",
+      "sul"
+    ],
+    "aliases": [
+      "Setor Comercial Residencial Sul",
+      "SCRS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCLN",
+    "nome": "Setor Comercial Local Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial local associado às quadras da Asa Norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "comercial",
+      "local",
+      "norte"
+    ],
+    "aliases": [
+      "Setor Comercial Local Norte",
+      "SCLN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCLS",
+    "nome": "Setor Comercial Local Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor comercial local associado às quadras da Asa Sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "comercial",
+      "local",
+      "sul"
+    ],
+    "aliases": [
+      "Setor Comercial Local Sul",
+      "SCLS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCTN",
+    "nome": "Setor Cultural Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor cultural localizado na região norte do centro de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "cultura",
+      "norte",
+      "centro"
+    ],
+    "aliases": [
+      "Setor Cultural Norte",
+      "SCTN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SCTS",
+    "nome": "Setor Cultural Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor cultural localizado na região sul do centro de Brasília.",
+    "regiao": "Brasília",
+    "tags": [
+      "cultura",
+      "sul",
+      "centro"
+    ],
+    "aliases": [
+      "Setor Cultural Sul",
+      "SCTS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SRPN",
+    "nome": "Setor de Recreação Pública Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a áreas públicas de recreação e lazer na região norte.",
+    "regiao": "Brasília",
+    "tags": [
+      "recreacao",
+      "lazer",
+      "norte"
+    ],
+    "aliases": [
+      "Setor de Recreação Pública Norte",
+      "SRPN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SRPS",
+    "nome": "Setor de Recreação Pública Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado a áreas públicas de recreação e lazer na região sul.",
+    "regiao": "Brasília",
+    "tags": [
+      "recreacao",
+      "lazer",
+      "sul"
+    ],
+    "aliases": [
+      "Setor de Recreação Pública Sul",
+      "SRPS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "STN",
+    "nome": "Setor Terminal Norte",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor associado à área terminal de transporte da região norte do Plano Piloto.",
+    "regiao": "Brasília",
+    "tags": [
+      "terminal",
+      "transporte",
+      "norte"
+    ],
+    "aliases": [
+      "Setor Terminal Norte",
+      "STN"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "STS",
+    "nome": "Setor Terminal Sul",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor associado à área terminal de transporte da região sul do Plano Piloto.",
+    "regiao": "Brasília",
+    "tags": [
+      "terminal",
+      "transporte",
+      "sul"
+    ],
+    "aliases": [
+      "Setor Terminal Sul",
+      "STS"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SPP",
+    "nome": "Setor Palácio Presidencial",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Área associada ao complexo presidencial e à região do Palácio da Alvorada.",
+    "regiao": "Brasília",
+    "tags": [
+      "palacio",
+      "presidencia",
+      "governo"
+    ],
+    "aliases": [
+      "Setor Palácio Presidencial",
+      "SPP"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Brasília"
+    ]
+  },
+  {
+    "sigla": "SPV",
+    "nome": "Setor de Preservação da Vila Planalto",
+    "categoria": "Endereçamento",
+    "descricao_curta": "Setor destinado à preservação urbanística e cultural da Vila Planalto.",
+    "regiao": "Vila Planalto",
+    "tags": [
+      "vila planalto",
+      "preservacao",
+      "patrimonio"
+    ],
+    "aliases": [
+      "Setor de Preservação da Vila Planalto",
+      "SPV"
+    ],
+    "fonte": "GDF / validar",
+    "regioes": [
+      "Vila Planalto"
+    ]
+  }
+]

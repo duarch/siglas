@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Siglas Brasília-DF
 
-## Getting Started
+## Visão geral
 
-First, run the development server:
+MVP minimalista de busca reativa para siglas e contextos de Brasília-DF. Os dados permanecem em JSON versionado no próprio repositório, sem backend ou banco de dados.
+
+## Como rodar
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse `http://localhost:3000` no computador ou `http://<IP-da-sua-rede>:3000` no celular. O servidor já é iniciado em `0.0.0.0` para aceitar conexões da rede local.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Estrutura
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `src/app`: página, layout e estilos globais
+- `src/components`: barra de busca, grid, cards e estado vazio
+- `src/data/acronyms.df.json`: catálogo local de siglas
+- `src/lib`: normalização e busca fuzzy
+- `src/types`: tipos TypeScript
 
-## Learn More
+## Busca e ranking
 
-To learn more about Next.js, take a look at the following resources:
+A busca é reativa, case-insensitive e accent-insensitive. O ranking prioriza match exato de sigla, prefixo de sigla, ocorrências em nome/tags/aliases e, por fim, aproximação fuzzy baseada em distância de Levenshtein. O fuzzy aceita pequenas diferenças de digitação sem introduzir dependências.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Os cards mostram somente a sigla. Ao clicar, os detalhes são expandidos no próprio grid.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Próximos passos
 
-## Deploy on Vercel
+- curadoria e revisão de fontes oficiais
+- filtros por categoria e região
+- testes automatizados de normalização e ranking
+- favoritos e histórico de buscas
+- paginação ou virtualização para um catálogo maior
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Implementação original
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Implementação clean-room, escrita do zero, sem copiar código de repositórios externos ou materiais GPL.
