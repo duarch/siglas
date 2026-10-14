@@ -4,13 +4,28 @@
 
 MVP minimalista de busca reativa para siglas e contextos de Brasília-DF. Os dados permanecem em JSON versionado no próprio repositório, sem backend ou banco de dados.
 
-## 🚀 Deploy
+## 🚀 Deploy na Vercel
 
-A aplicação está pronta para publicar no GitHub Pages com deploy automático via GitHub Actions.
+A aplicação é publicada na Vercel e utiliza o domínio personalizado:
 
-**[Instruções de deploy →](./DEPLOY.md)**
+**https://siglas.duar.ch**
 
-Após configurar, a aplicação estará disponível em: `https://seu-usuario.github.io/siglas`
+O projeto usa exportação estática do Next.js. Não é necessário configurar `basePath`, porque o domínio personalizado serve a aplicação diretamente na raiz (`/`).
+
+Para executar localmente:
+
+```bash
+npm install
+npm run dev
+```
+
+Para validar a build de produção:
+
+```bash
+npm run build
+```
+
+Depois de alterar o código, basta fazer push para `main`; a Vercel deve iniciar um novo deploy automaticamente.
 
 ## Como rodar localmente
 
@@ -28,11 +43,10 @@ Acesse `http://localhost:3000` no computador ou `http://<IP-da-sua-rede>:3000` n
 - `src/data/acronyms.df.json`: catálogo local de siglas
 - `src/lib`: normalização e busca fuzzy
 - `src/types`: tipos TypeScript
-- `.github/workflows/deploy.yml`: configuração de deploy automático
 
 ## Busca e ranking
 
-A busca é reativa, case-insensitive e accent-insensitive. O ranking prioriza match exato de sigla, prefixo de sigla, ocorrências em nome/tags/aliases e, por fim, aproximação fuzzy baseada em distância de Levenshtein. O fuzzy aceita pequenas diferenças de digitação sem introduzir dependências.
+A busca é reativa, case-insensitive e accent-insensitive. O ranking prioriza match exato de sigla, prefixo de sigla, ocorrências em nome/tags/aliases e, por fim, aproximação fuzzy baseada em distância de edição.
 
 Os cards mostram somente a sigla. Ao clicar, os detalhes são expandidos. Pressione ESC para fechar o card expandido.
 
