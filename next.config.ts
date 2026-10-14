@@ -1,20 +1,14 @@
 import type { NextConfig } from "next";
 
-const isProduction = process.env.NODE_ENV === "production";
-
 const nextConfig: NextConfig = {
+  // The Vercel custom domain serves the app from the root path.
+  // Do not use the /siglas repository subpath here.
   output: "export",
   distDir: "out",
   trailingSlash: true,
   images: {
     unoptimized: true,
   },
-  ...(isProduction
-    ? {
-        basePath: "/siglas",
-        assetPrefix: "/siglas/",
-      }
-    : {}),
   allowedDevOrigins: ["192.168.1.9"],
 };
 
